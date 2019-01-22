@@ -2,6 +2,7 @@
   "name": "react-london-meetup-checker",
   "version": "0.1.0",
   "main": "index.js",
+  "bin": "index.js",
   "author": "Jim O'Brien <jim@jimmed.net>",
   "license": "WTFPL",
   "dependencies": {

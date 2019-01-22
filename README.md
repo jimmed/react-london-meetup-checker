@@ -1,5 +1,3 @@
-# react-meetup-london-checker
+# react-london-meetup-checker
 
-`npx react-meetup-london-checker`
-
-
+`npx jimmed/react-london-meetup-checker`
