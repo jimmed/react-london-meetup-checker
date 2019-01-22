@@ -1,7 +1,14 @@
 {
-  "name": "react-meetup-london",
-  "version": "1.0.0",
+  "name": "react-london-meetup-checker",
+  "version": "0.1.0",
   "main": "index.js",
   "author": "Jim O'Brien <jim@jimmed.net>",
-  "license": "MIT"
+  "license": "WTFPL",
+  "dependencies": {
+    "fast-html-parser": "^1.0.1",
+    "ink": "^0.5.1",
+    "node-fetch": "^2.3.0",
+    "node-notifier": "^5.3.0",
+    "open": "^0.0.5"
+  }
 }
